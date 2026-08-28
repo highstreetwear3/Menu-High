@@ -31,7 +31,7 @@ body {
 .nfc-card {
     width: 380px;
     height: 680px;
-    background: #0d0d0d;
+    background: #000000;
     border-radius: 24px;
     padding: 40px;
     display: flex;
@@ -206,12 +206,12 @@ body {
 /* ===== RESPONSIVE MÓVIL ===== */
 @media only screen and (max-width: 860px) {
     html {
-        background: #0d0d0d;
+        background: #000000;
     }
     
     body {
         padding: 0;
-        background: #0d0d0d;
+        background: #000000;
         display: block;
         align-items: stretch;
         justify-content: stretch;
