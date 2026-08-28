@@ -52,7 +52,7 @@ body {
 }
 
 .logo-img {
-    max-width: 240px;
+    max-width: 320px;
     height: auto;
     display: block;
     margin: 0 auto;
@@ -128,7 +128,7 @@ body {
 }
 
 .menu-logo-img {
-    max-width: 160px;
+    max-width: 250px;
     height: auto;
 }
 
@@ -250,10 +250,10 @@ body {
     }
     
     .logo-img {
-        max-width: 220px;
+        max-width: 280px;
     }
     
     .menu-logo-img {
-        max-width: 150px;
+        max-width: 200px;
     }
 }
