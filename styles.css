@@ -45,10 +45,11 @@ body {
 
 .logo-container {
     text-align: center;
+    margin-top: 20px;
 }
 
 .nfc-spacer {
-    flex: 0.5;
+    flex: 0.2;
 }
 
 .logo-img {
